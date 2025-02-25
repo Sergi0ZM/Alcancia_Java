@@ -1,4 +1,4 @@
-# Alcancía - Ejericio en clase
+# Alcancía - Ejercicio en clase
 
 En una alcancía es posible guardar monedas de las siguientes denominaciones:  
 **$20, $50, $100, $200 y $500**.  
